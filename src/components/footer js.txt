@@ -1,0 +1,24 @@
+import React from "react";
+import "./Footer.css";
+
+const Footer = () => {
+  return (
+    <footer className="footer">
+      <h3>Ready to Streamline Your Business?</h3>
+      <p>
+        Join thousands of businesses using Daybooks.in to manage their
+        operations effortlessly.
+      </p>
+      <p className="get-started">Get Started Today</p>
+
+      <div className="footer-bottom">
+        <p>© 2025 Daybooks.in. All rights reserved.</p>
+        <div className="links">
+          <a href="/contact">Contact Us</a> | <a href="/privacy">Privacy Policy</a>
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;

@@ -1,0 +1,40 @@
+.footer {
+  background-color: #009970;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.footer h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.get-started {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.footer-bottom {
+  background-color: #009970;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.footer-bottom .links a {
+  color: #ddd;
+  margin: 0 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
